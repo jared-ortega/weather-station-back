@@ -64,3 +64,6 @@ nunit-*.xml
 
 # Release data
 /publish
+
+#Deploy to rapsberry pi commands
+Deploy.txt
